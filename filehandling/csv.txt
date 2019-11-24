@@ -1,0 +1,4 @@
+17,Manu,10000,M
+18,Devasena,100000,f
+19,Sivagami,200000,F
+20,Anu,100000,F
